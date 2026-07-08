@@ -36,11 +36,6 @@ a:hover {
     text-decoration: underline;
 }
 
-img {
-    width: 200px;
-    border-radius: 10px;
-}
-
 .info {
     display: flex;
     gap: 20px;
