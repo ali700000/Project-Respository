@@ -35,9 +35,3 @@ a:hover {
     color: red;
     text-decoration: underline;
 }
-
-.info {
-    display: flex;
-    gap: 20px;
-    align-items: center;
-}
