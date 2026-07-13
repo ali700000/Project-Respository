@@ -1,13 +1,8 @@
-/* General Reset */
-
-* {
+{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-
-
-/* Body Styling */
 
 body {
 
@@ -20,9 +15,6 @@ body {
     line-height: 1.6;
 
 }
-
-
-/* Header */
 
 header {
 
@@ -49,10 +41,6 @@ header p {
     font-size: 1.2rem;
 
 }
-
-
-
-/* Navigation */
 
 nav {
 
@@ -92,10 +80,6 @@ nav a:hover {
     color: #d4af37;
 
 }
-
-
-
-/* Hero Section */
 
 .hero {
 
@@ -148,10 +132,6 @@ nav a:hover {
 
 }
 
-
-
-/* Button */
-
 .button {
 
     display: inline-block;
@@ -179,10 +159,6 @@ nav a:hover {
     background-color: white;
 
 }
-
-
-
-/* Cards */
 
 .cards {
 
@@ -242,10 +218,6 @@ nav a:hover {
 
 }
 
-
-
-/* About Section */
-
 .about {
 
     padding: 40px;
@@ -264,10 +236,6 @@ nav a:hover {
 
 }
 
-
-
-/* Footer */
-
 footer {
 
     text-align: center;
@@ -285,10 +253,6 @@ footer a {
     color: #d4af37;
 
 }
-
-
-
-/* Responsive Design */
 
 @media screen and (max-width: 768px) {
 
