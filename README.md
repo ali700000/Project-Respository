@@ -41,6 +41,7 @@ List the inspiration interfaces you used and briefly explain what you learned fr
 List any tutorials, assets, images, icons, fonts, tools, or outside resources used.
 
 https://www.pushsquare.com/news/2020/04/final_fantasy_vii_remakes_main_menu_screen_is_a_thing_of_beauty
+https://interfaceingame.com/screenshots/bloodborne-main-menu/
 
 ## Future Improvements
 What would you improve or add with more time? I would probably improve the layout of the interface and add background artwork to my interface.
