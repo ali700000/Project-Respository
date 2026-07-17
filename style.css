@@ -35,3 +35,12 @@ a:hover {
     color: red;
     text-decoration: underline;
 }
+
+.dark-mode {
+    background-color: #222;
+    color: white;
+}
+
+.dark-mode a {
+    color: #8ec5ff;
+}
